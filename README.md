@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 **CS Graduate** | **ITI Trainee**  
+- 🎓 **CS Student** | **ITI Trainee**  
 - 💼 Passionate about building **scalable web apps** and exploring **DevOps & Cloud**  
 - 🌱 Currently learning **.NET, Docker, Kubernetes, and Azure DevOps**  
 - 🤝 Open to collaborating on **interesting projects** and **open-source contributions**  
