@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 **CS Student** | ITI Trainee, passionate about modern web technologies
+- 🎓 **CE Student** | ITI Trainee, passionate about modern web technologies
 - 🌱 Currently learning **.NET**, **Docker**, **Kubernetes**, and **Azure DevOps**
 - 💼 Interested in Cloud, DevOps, and scalable system design
 - 🤝 Open to collaboration on open-source and innovative projects
